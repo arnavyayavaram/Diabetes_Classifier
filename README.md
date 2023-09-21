@@ -1,1 +1,1 @@
-# Diabetes_CLassifier
+# Diabetes_Classifier
